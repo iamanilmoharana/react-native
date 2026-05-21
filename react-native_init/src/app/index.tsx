@@ -3,9 +3,11 @@ import { StyleSheet, Text, View } from "react-native";
 
 const homeScreen = () => {
   return (
-    <View>
-      <Text>Hello</Text>
-    </View>
+    <>
+      <View>
+        <Text>Hello Jio</Text>
+      </View>
+    </>
   );
 };
 
