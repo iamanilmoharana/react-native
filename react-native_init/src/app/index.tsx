@@ -5,7 +5,7 @@ const homeScreen = () => {
   return (
     <>
       <View>
-        <Text>Hello Jio</Text>
+        <Text>Home Screen</Text>
       </View>
     </>
   );
